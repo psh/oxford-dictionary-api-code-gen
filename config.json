@@ -1,0 +1,7 @@
+{
+  "sourceFolder": "src",
+  "modelPackage": "com.gatebuzz.oxford.model",
+  "apiPackage": "com.gatebuzz.oxford.api",
+  "library": "retrofit2",
+  "useRxJava": true
+}
