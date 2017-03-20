@@ -52,7 +52,7 @@ I need to tell Swagger to
 * Read the Oxford Dictionary API docs
 * Write to the "output" directory I created
 
-The command line is a little long, but looks like this (note: line continuation "\" characters have been inserted to aid clarity.)
+The command line is a little long, but looks like this (note: line continuation ```\``` characters have been inserted to aid clarity.)
 
 ```
 java -jar swagger-codegen.jar generate \
