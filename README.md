@@ -10,7 +10,7 @@ At the time of writing this, swagger-codegen is at version 2.2.1 and can be obta
 
 Create a working directory and copy the swagger-codegen-cli-2.2.1.jar into it.  I am lazy, so I also renamed it to "swagger-codegen.jar" to save typing.
 
-#3. Check everything is ready to go
+# 3. Check everything is ready to go
 
 Check out the help built into Swagger codegen by typing
 
